@@ -1,0 +1,24 @@
+#mybutton{
+    font-size: 4rem; 
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 15px;
+}
+.enabled{
+    background-color: blue;
+    color: white;
+}
+
+.hover{
+    filter: drop-shadow(20px 20px 25px blue);
+    font-weight: bold;
+}
+.hover2{
+    filter: drop-shadow(20px 20px 25px black);
+}
+
+.disabled{
+    background-color: black;
+    color: yellow;
+}

@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+#mybox{
+    background-color: rgb(230, 78, 18);
+    width: 200px;
+    height: 200px;
+    font-size: 8rem;
+    filter: drop-shadow(5px 5px 25px rgb(190, 14, 14));
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
